@@ -28,5 +28,10 @@ Community Management | Team work | Strategic Growth Planning | Content Writing |
 ## documentation
 
 
+## Challenges 
+
+## Improvement 
+
+
 
 
