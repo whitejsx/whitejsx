@@ -1,5 +1,5 @@
-# Software Engineer | Operation Reseach (B. tech)
-### Software Developer @ALX👋
+# Software Engineer (ALX) | Operation Reseach (B. tech)
+### growth mindset👋
 
 ## About me
 I’m experienced, impact-driven Software Engineer with 4+ of experience in building, design
