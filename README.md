@@ -1,5 +1,5 @@
 # Software Engineer (ALX) | Operation Reseach (B. tech)
-### growth mindset👋
+### Growth mindset👋  :: Grit 🔥
 
 ## About me
 I’m experienced, impact-driven Software Engineer with 4+ of experience in building, design
