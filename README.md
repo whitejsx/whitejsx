@@ -21,7 +21,7 @@ Community Management | Team work | Strategic Growth Planning | Content Writing |
 
 
 ## Experince 
-> here is my experice 
+> January 12    ---- frontend development
 
 ## Project showcase
 
