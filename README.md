@@ -25,7 +25,7 @@ Community Management | Team work | Strategic Growth Planning | Content Writing |
 
 ## Project showcase
 
-## documentation
+## Documentation
 
 
 ## Challenges 🔥
