@@ -1,10 +1,10 @@
-# Software Engineer (ALX) | Operation Reseach (B. tech)
+# Software Engineer (ALX) 🔥 Operation Reseach (B. tech)
 ### Growth mindset👋  :: Grit 🔥
 
 ## About me
 I’m experienced, impact-driven Software Engineer with 4+ of experience in building, design
 architect and planning software application and integration, with a knack for aethestic design
-approach,  I’m eager to join a startup with a strong mission in building a product and service that 
+approach,  I’m eager 🔥 to join a startup with a strong mission in building a product and service that 
 will revolutionize the world. In my previous role, I slashed my downtime by 20% and ensured 85% 
 on-time project completion, I have also identified and and dealt with significant process 
 bottlenecks that boosted coding efficiency by 37% when resolved.
@@ -28,7 +28,7 @@ Community Management | Team work | Strategic Growth Planning | Content Writing |
 ## documentation
 
 
-## Challenges 
+## Challenges 🔥
 
 ## Improvement 
 
