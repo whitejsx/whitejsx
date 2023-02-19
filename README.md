@@ -19,7 +19,7 @@ bottlenecks that boosted coding efficiency by 37% when resolved.
 Community Management | Team work | Strategic Growth Planning | Content Writing | Research 
 --------------------- | -------------- | ------------------------ | ---------------- | ---------
 
-
+### Social Connect
 ## Experince 
 > January 12-2021    ---- frontend development
   - Client: Nigerian Brewery Yola District 
