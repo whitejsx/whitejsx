@@ -23,9 +23,9 @@ Community Management | Team work | Strategic Growth Planning | Content Writing |
 ## Experince 
 > January 12-2021    ---- frontend development
   - Client: Nigerian Brewery Yola District 
- <center style="bacground-color:'red';">
+ <p>
 Build outline capturing system 
-</center>
+</p>
  
 ## Project showcase
 
