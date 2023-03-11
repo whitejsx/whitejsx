@@ -32,10 +32,5 @@ Build outline capturing system
 
 
 
-## Challenges 🔥
-
-## Improvement 
-
-
 
 
