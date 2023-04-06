@@ -1,4 +1,4 @@
-# Software Engineer (ALX) 🔥 Operation Reseach (B. tech)
+# Software Engineer | 🔥 Operation Reseach (B. tech)
 ### Growth mindset👋  :: Grit 🔥
 
 ## About Me 
