@@ -1,4 +1,4 @@
-# Software Engineer | 🔥 Operation Reseach (B. tech)
+# Modelling and Simulation  🔥 || Software Engineer |
 ### Growth mindset👋  :: Grit 🔥
 
 ## About Me 
